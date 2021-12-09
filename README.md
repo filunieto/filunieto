@@ -11,5 +11,7 @@ Skills: 👀 C, Python, Shell Linux, Sqlite
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filunieto)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=filunieto)  
+<!---
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=filunieto) 
+-->
 
