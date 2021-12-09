@@ -3,7 +3,7 @@
 
 Skills: 👀 C, Python, Shell Linux, Sqlite
 
-- 🔭 I’m currently working on CS50 and 42Heilbronn 
+- 🔭 I’m currently working on CS50([CS50](https://cs50.harvard.edu/x/2021/)) and 42Heilbronn 
 - 📫 How to reach me: filunie@gmail.com 
 
 
