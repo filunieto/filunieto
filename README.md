@@ -1,5 +1,5 @@
-### Hi there 👋, This is Felipe, encantado!
-####  a railways engineer living in Germany and  interested in software
+### Hi there 👋, This is Felipe, encantado!  🇪🇸 
+####  a railways engineer living in Germany  🇩🇪  and  interested in software
 
 Skills: 👀 C, Python, Shell Linux, Sqlite
 
