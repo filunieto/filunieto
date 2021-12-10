@@ -2,7 +2,7 @@
 ####  a railways engineer living in Germany  🇩🇪  and  interested in software
 
 
-- 🔭 I’m currently learning on Harvard [CS50](https://cs50.harvard.edu/x/2021/) and [42Heilbronn](hhttps://www.42heilbronn.de/en/) 
+- 🔭 I’m currently learning on Harvard [CS50](https://cs50.harvard.edu/x/2021/) and [42Heilbronn](https://www.42heilbronn.de/en/)
 - 📫 How to reach me: filunie@gmail.com 
 <!--- Comentado
 - 👨‍💻 One of my personal projects [https://www.fuemedicalcenter.com/](https://www.fuemedicalcenter.com/)
