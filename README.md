@@ -6,8 +6,7 @@ Skills: 👀 C, Python, Shell Linux, Sqlite
 - 🔭 I’m currently learning on Harvard [CS50](https://cs50.harvard.edu/x/2021/) and [42Heilbronn](hhttps://www.42heilbronn.de/en/) 
 - 📫 How to reach me: filunie@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/filunieto)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/f-c-nieves-3abb6653//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.fuemedicalcenter.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/filunieto)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filunieto)](https://github-readme-stats.vercel.app/api/top-langs/?username=filunieto)
 
