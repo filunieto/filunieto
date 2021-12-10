@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently learning on Harvard [CS50](https://cs50.harvard.edu/x/2021/) and [42Heilbronn](hhttps://www.42heilbronn.de/en/) 
 - 📫 How to reach me: filunie@gmail.com 
-
+<!--- Comentado
 - 👨‍💻 One of my personal projects [https://www.fuemedicalcenter.com/](https://www.fuemedicalcenter.com/)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/f-c-nieves-3abb6653/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/f-c-nieves-3abb6653/" height="30" width="40" /></a>
