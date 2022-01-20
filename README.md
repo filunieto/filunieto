@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently learning on Harvard [CS50](https://cs50.harvard.edu/x/2021/) and [42Heilbronn](https://www.42heilbronn.de/en/)
-- 📫 How to reach me: filunie@gmail.com 
+- 📫 How to reach me: 🄵ⓘ🄻ⓤnie@gmail.com 
 <!--- Comentado
 - 👨‍💻 One of my personal projects [https://www.fuemedicalcenter.com/](https://www.fuemedicalcenter.com/)
 -->
