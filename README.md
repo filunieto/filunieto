@@ -1,5 +1,5 @@
 ### Hola 👋, me llamo Felipe: ¡encantado!  🇪🇸 
-####  a railways engineer living in Germany  🇩🇪  and  interested in software
+####  an engineer living in Germany  🇩🇪  and  interested in software
 
 
 - 🔭 I’m currently learning on Harvard [CS50](https://cs50.harvard.edu/x/2021/) and [42Heilbronn](https://www.42heilbronn.de/en/)
